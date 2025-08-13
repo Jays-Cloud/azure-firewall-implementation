@@ -67,10 +67,10 @@ This project was based on the [Whizlabs Lab: Deploy and Configure Azure Firewall
 ## Screenshots
 
 **Resource Visualizer — Azure Firewall Environment**
-![Resource Visualizer](az500fw.png)
+![Resource Visualizer](screenshots/az500fw.png)
 
 **Resource Group — Deployed Components**
-![Resource Group Overview](az500firewall.png)
+![Resource Group Overview](screenshots/az500firewall.png)
 
 ---
 
