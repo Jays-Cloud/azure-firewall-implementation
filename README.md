@@ -11,11 +11,6 @@ This project was based on the [Whizlabs Lab: Deploy and Configure Azure Firewall
 
 ---
 
-## Architecture Diagram
-![Azure Firewall Architecture](screenshots/azure-firewall-architecture.png)
-
----
-
 ## Objectives
 - Deploy an **Azure Firewall** in a dedicated subnet.
 - Create and apply a **Firewall Policy** with network and application rules.
