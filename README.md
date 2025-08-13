@@ -12,7 +12,7 @@ This project was based on the [Whizlabs Lab: Deploy and Configure Azure Firewall
 ---
 
 ## Architecture Diagram
-*(The screenshots below include Azure's Resource Visualizer view showing the deployment.)*
+![Azure Firewall Architecture](screenshots/azure-firewall-architecture.png)
 
 ---
 
